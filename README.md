@@ -15,6 +15,8 @@
 
 # 使用方法
 
+- 将config.sample.json复制一份命名为config.json
+
 - 编辑config.json
 
 ```
