@@ -1,0 +1,188 @@
+{
+    "MGAF2ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-128gb-金色-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "gold",
+            "cap": "128"
+        }
+    },
+    "MG492ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-16gb-金色-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "gold",
+            "cap": "16"
+        }
+    },
+    "MGAC2ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-128gb-太空灰-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "space_gray",
+            "cap": "128"
+        }
+    },
+    "MGA92ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-16gb-銀色-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "silver",
+            "cap": "16"
+        }
+    },
+    "MG4F2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-64gb-太空灰-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "space_gray",
+            "cap": "64"
+        }
+    },
+    "MG472ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-16gb-太空灰-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "space_gray",
+            "cap": "128"
+        }
+    },
+    "MG4A2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-128gb-太空灰-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "space_gray",
+            "cap": "128"
+        }
+    },
+    "MGAK2ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-64gb-金色-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "gold",
+            "cap": "64"
+        }
+    },
+    "MGAA2ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-16gb-金色-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "gold",
+            "cap": "16"
+        }
+    },
+    "MG4J2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-64gb-金色-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "gold",
+            "cap": "64"
+        }
+    },
+    "MGAJ2ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-64gb-銀色-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "silver",
+            "cap": "64"
+        }
+    },
+    "MG4H2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-64gb-銀色-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "silver",
+            "cap": "64"
+        }
+    },
+    "MGAE2ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-128gb-銀色-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "silver",
+            "cap": "128"
+        }
+    },
+    "MG4E2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-128gb-金色-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "gold",
+            "cap": "128"
+        }
+    },
+    "MG482ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-16gb-銀色-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "silver",
+            "cap": "16"
+        }
+    },
+    "MGAH2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-64gb-太空灰-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "space_gray",
+            "cap": "64"
+        }
+    },
+    "MG4C2ZP/A" : {
+        "url": "iphone6/4.7-吋螢幕-128gb-銀色-已解鎖",
+        "summary":{
+            "size": "4_7",
+            "color": "silver",
+            "cap": "128"
+        }
+    },
+    "MGA82ZP/A" : {
+        "url": "iphone6/5.5-吋螢幕-16gb-太空灰-已解鎖",
+        "summary":{
+            "size": "5_5",
+            "color": "space_gray",
+            "cap": "16"
+        }
+    },
+    "MF354ZP/A" : {
+        "url": "iphone5s/16gb-金色-已解鎖",
+        "summary":{
+            "color": "gold",
+            "cap": "16"
+        }
+    },
+    "MF357ZP/A" : {
+        "url": "iphone5s/32gb-金色-已解鎖",
+        "summary":{
+            "color": "gold",
+            "cap": "32"
+        }
+    },
+    "MF353ZP/A" : {
+        "url": "iphone5s/16gb-銀色-已解鎖",
+        "summary":{
+            "color": "silver",
+            "cap": "16"
+        }
+    },
+    "MF356ZP/A" : {
+        "url": "iphone5s/32gb-銀色-已解鎖",
+        "summary":{
+            "color": "silver",
+            "cap": "32"
+        }
+    },
+    "MF352ZP/A" : {
+        "url": "iphone5s/16gb-太空灰-已解鎖",
+        "summary":{
+            "color": "space_gray",
+            "cap": "16"
+        }
+    },
+    "MF355ZP/A" : {
+        "url": "iphone5s/32gb-太空灰-已解鎖",
+        "summary":{
+            "color": "space_gray",
+            "cap": "32"
+        }
+    }
+}

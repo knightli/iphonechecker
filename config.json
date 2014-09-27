@@ -1,0 +1,33 @@
+{
+    "wishlist":[
+        {
+            "title": "iphone6/4.7-吋螢幕-128gb-太空灰-已解鎖"
+        },
+        {
+            "title": "iphone6/4.7-吋螢幕-64gb-太空灰-已解鎖"
+        },
+        {
+            "title": "iphone6/4.7-吋螢幕-128gb-銀色-已解鎖"
+        },
+        {
+            "title": "iphone6/4.7-吋螢幕-64gb-銀色-已解鎖"
+        },
+        {
+            "desc": "注意, 这是一个测试用的item, 可以通过更改noNotify的值为false来打开本item的邮件提醒, 以便测试是否能跑通流程. disable可以彻底禁用这个item, 连check也不会check",
+            "disable": false,
+            "noNotify": true,
+            "title": "iphone5s/32gb-銀色-已解鎖"
+        }
+    ],
+    "mail": {
+        "from":{
+            "host": "smtp.sohu.com",
+            "auth": {
+                "user": "xxxxxx@sohu.com",
+                "pass": "xxxxxxxx"
+            },
+            "debug": true
+        },
+        "to": "xxxxxx@qq.com"
+    }
+}
