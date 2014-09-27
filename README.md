@@ -1,7 +1,7 @@
 港版商店iPhone6货源监控器(支持邮件提醒)
 =====
 
-> desc: check hk appstore and send mail if iphone is available
+> desc: check hk apple store and send mail if iphone is available
 
 黄牛太多, 国行又没出来, 于是用node实现了一个港版iPhone的检查器, 支持邮件提醒
 
@@ -47,9 +47,9 @@
     ],
     //这里配置你想要用来发提醒邮件的邮箱smtp服务及账号密码
     "mail": {
-    	//这里配置你想要用来发提醒邮件的邮箱smtp服务及账号密码
-    	//默认配置的是sohu的smtp服务, 如果你也用这个邮件服务商, 那么修改一下下面的user和pass即可
-    	//如果是其他邮件服务商, 不保证能够配置成功. 关于参数的配置可参照: https://github.com/andris9/Nodemailer#migration-guide
+        //这里配置你想要用来发提醒邮件的邮箱smtp服务及账号密码
+        //默认配置的是sohu的smtp服务, 如果你也用这个邮件服务商, 那么修改一下下面的user和pass即可
+        //如果是其他邮件服务商, 不保证能够配置成功. 关于参数的配置可参照: https://github.com/andris9/Nodemailer#migration-guide
         "from":{
             "host": "smtp.sohu.com",
             "auth": {
@@ -71,7 +71,7 @@ node checker.js
 ```
 观察console打印并检查sendMail的运行是否正常, 是否能够发出邮件
 
-- 利用forver守护进程
+- 利用forever守护进程
 	- 安装forever
 	`npm install forever -g`
 	- 守护运行
